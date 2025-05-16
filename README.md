@@ -28,7 +28,7 @@ A fully functional chess game implemented in Python using Pygame. This project d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chess.git
+git clone https://github.com/Strothon/chess.git
 cd chess
 ```
 
